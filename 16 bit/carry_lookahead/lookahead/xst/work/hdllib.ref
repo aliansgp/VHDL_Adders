@@ -1,0 +1,6 @@
+EN cla NULL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/CLA.vhd" sub00/vhpl04 1673444020
+EN carry_generator NULL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/carry_generator.vhd" sub00/vhpl02 1673444018
+AR carry_generator behavioral "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/carry_generator.vhd" sub00/vhpl03 1673444019
+AR g_p_generate behavioral "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/G_P_generate.vhd" sub00/vhpl01 1673444017
+EN g_p_generate NULL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/G_P_generate.vhd" sub00/vhpl00 1673444016
+AR cla behavioral "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/CLA.vhd" sub00/vhpl05 1673444021

@@ -1,0 +1,8 @@
+[Inputs]
+k
+=a[15:0]=
+=b[15:0]=
+[Outputs]
+cout
+=s[15:0]=
+[BiDir]

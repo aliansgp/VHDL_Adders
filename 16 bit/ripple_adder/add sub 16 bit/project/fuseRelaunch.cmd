@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/add_sub_16_bit_tb_isim_beh.exe" -prj "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/add_sub_16_bit_tb_beh.prj" "work.add_sub_16_bit_tb" 

@@ -1,0 +1,3 @@
+vhdl work "ripple_carry4.vhd"
+vhdl work "carry_select4.vhd"
+vhdl work "carry_select.vhd"

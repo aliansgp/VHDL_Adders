@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_select/carry_select/carry_select16.xst" -ofn "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_select/carry_select/carry_select16.syr" 
+xst -intstyle ise -ifn "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_select/carry_select/carry_select16.xst" -ofn "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_select/carry_select/carry_select16.syr" 

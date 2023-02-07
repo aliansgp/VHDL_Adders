@@ -1,0 +1,51 @@
+Running: d:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/add_sub_16_bit_tb_isim_beh.exe -prj C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/add_sub_16_bit_tb_beh.prj work.add_sub_16_bit_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" into library work
+Parsing VHDL file "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit_tb.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 44: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 45: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 46: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 47: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 48: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 49: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 50: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 51: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 52: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 53: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 54: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 55: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 56: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 57: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 58: <full_adder> remains a black-box since it has no binding entity.
+WARNING:HDLCompiler:89 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 59: <full_adder> remains a black-box since it has no binding entity.
+Completed static elaboration
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 44. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 45. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 46. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 47. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 48. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 49. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 50. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 51. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 52. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 53. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 54. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 55. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 56. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 57. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 58. Instance full_adder is unbound
+WARNING:Simulator:648 - "C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 59. Instance full_adder is unbound
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package env
+Compiling architecture behavioral of entity add_sub_16_bit [add_sub_16_bit_default]
+Compiling architecture behavior of entity add_sub_16_bit_tb
+Time Resolution for simulation is 1ps.
+Compiled 6 VHDL Units
+Built simulation executable C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/add_sub_16_bit_tb_isim_beh.exe
+Fuse Memory Usage: 30236 KB
+Fuse CPU Usage: 1109 ms

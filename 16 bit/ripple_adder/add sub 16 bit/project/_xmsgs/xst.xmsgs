@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="89" delta="old" >"C:\Users\Ali\Desktop\CA\az6_report (2)\az6_report\codes\add_sub_4_bit.vhd" Line 17: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;15&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;14&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;13&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;12&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;11&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;10&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;9&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;8&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;7&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;6&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;5&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;4&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;3&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;2&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;1&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">s&lt;0&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">cout</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">full_adder</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+</messages>
+

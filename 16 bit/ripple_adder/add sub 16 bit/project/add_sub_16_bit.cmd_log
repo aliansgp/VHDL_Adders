@@ -1,0 +1,16 @@
+xst -intstyle ise -ifn "E:/Users/CA/add_sub_16_bit.xst" -ofn "E:/Users/CA/add_sub_16_bit.syr" 
+xst -intstyle ise -ifn "E:/Users/CA/add_sub_16_bit.xst" -ofn "E:/Users/CA/add_sub_16_bit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 add_sub_16_bit.ngc add_sub_16_bit.ngd  
+vhdtdtfi -lib work {C:/Users/Ali/Desktop/CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd} -prj CA -o add_sub_16_bit.spl -module add_sub_16_bit -template d:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 add_sub_16_bit.spl e:/Users/CA/add_sub_16_bit.sym 
+netgen -intstyle ise -ar Structure -tm add_sub_16_bit -w -dir netgen/synthesis -ofmt vhdl -sim add_sub_16_bit.ngc add_sub_16_bit_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 add_sub_16_bit.ngc add_sub_16_bit.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 add_sub_16_bit.ngc add_sub_16_bit.ngd  
+vhdtdtfi -prj CA -o E:/Users/CA/add_sub_16_bit.vhi -module add_sub_16_bit -template d:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work "C:/Users/Ali/Desktop/CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" 
+vhdtdtfi -lib work {C:/Users/Ali/Desktop/CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd} -prj CA -o add_sub_16_bit.spl -module add_sub_16_bit -template d:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 add_sub_16_bit.spl e:/Users/CA/add_sub_16_bit.sym 
+vhdtdtfi -lib work {C:/Users/Ali/Desktop/CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd} -prj CA -o add_sub_16_bit.spl -module add_sub_16_bit -template d:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 add_sub_16_bit.spl e:/Users/CA/add_sub_16_bit.sym 
+vhdtdtfi -lib work {C:/Users/Ali/Desktop/CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd} -prj CA -o add_sub_16_bit.spl -module add_sub_16_bit -template d:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 add_sub_16_bit.spl e:/Users/CA/add_sub_16_bit.sym 
+xst -intstyle ise -ifn "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/add sub 16 bit/project/add_sub_16_bit.xst" -ofn "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/add sub 16 bit/project/add_sub_16_bit.syr" 

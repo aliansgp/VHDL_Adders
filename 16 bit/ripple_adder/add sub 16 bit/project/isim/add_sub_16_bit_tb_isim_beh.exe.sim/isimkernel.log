@@ -1,0 +1,27 @@
+Command line:
+   add_sub_16_bit_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60335
+
+Tue Jan 10 19:25:07 2023
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5154.93 Meg
+
+ Total Signals          : 27
+ Total Nets             : 82
+ Total Signal Drivers   : 21
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 20
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 442
+
+** Failure:finish
+User(VHDL) Code Called Simulation Stop
+In process add_sub_4_bit_tb.vhd:end_process 
+ 
+

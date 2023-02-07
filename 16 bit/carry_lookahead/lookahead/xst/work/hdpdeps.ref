@@ -1,0 +1,22 @@
+V3 11
+FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/carry_generator.vhd" 2023/01/11.17:01:41 P.20131013
+EN work/carry_generator 1673444018 \
+      FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/carry_generator.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/carry_generator/Behavioral 1673444019 \
+      FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/carry_generator.vhd" \
+      EN work/carry_generator 1673444018
+FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/CLA.vhd" 2023/01/11.15:11:39 P.20131013
+EN work/CLA 1673444020 \
+      FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/CLA.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/CLA/Behavioral 1673444021 \
+      FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/CLA.vhd" \
+      EN work/CLA 1673444020 CP G_P_generate CP carry_generator
+FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/G_P_generate.vhd" 2023/01/11.15:18:23 P.20131013
+EN work/G_P_generate 1673444016 \
+      FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/G_P_generate.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/G_P_generate/Behavioral 1673444017 \
+      FL "C:/Users/Ali/Desktop/CA-Project-1/Adders/16 bit/carry_lookahead/lookahead/G_P_generate.vhd" \
+      EN work/G_P_generate 1673444016

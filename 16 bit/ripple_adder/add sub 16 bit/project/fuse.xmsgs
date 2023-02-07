@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 44: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 45: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 46: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 47: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 48: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 49: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 50: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 51: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 52: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 53: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 54: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 55: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 56: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 57: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 58: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="89" delta="unknown" >"C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd" Line 59: &lt;<arg fmt="%s" index="1">full_adder</arg>&gt; remains a black-box since it has no binding entity.
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">44</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">45</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">46</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">47</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">48</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">49</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">50</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">51</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">52</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">53</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">54</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">55</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">56</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">57</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">58</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+<msg type="warning" file="Simulator" num="648" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/Ali/Desktop/CA-Project-1/Adders/add sub 16 bit/project/../../../../CA/az6_report (2)/az6_report/codes/add_sub_4_bit.vhd</arg>&quot; Line <arg fmt="%d" index="2">59</arg>. Instance <arg fmt="%s" index="3">full_adder</arg> is unbound
+</msg>
+
+</messages>
+
